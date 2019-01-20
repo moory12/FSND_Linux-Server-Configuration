@@ -14,7 +14,7 @@
 5) added the following ports to ufw 123 , 2200 , 80
 5) enabled ufw
 6) changed time to UTC
-7) installed apache and mod_wsgi
+7) installed apache, Flask and mod_wsgi
 8) installed git
 9) cloned my project ItemCatalog to /var/www/ItemCatalog
 10) deleted /var/www/html
